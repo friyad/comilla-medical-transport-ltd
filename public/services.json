@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Collective Ambulance",
+        "img": "https://i.ibb.co/9HzwNtC/1.jpg",
+        "description": "Collective ambulances is a type of ambulance that fits within non-medical ambulances or also called conventional ambulances. These are vehicles for the collective transport of patients and are equipped for the joint transfer of patients whose transfer is not of an emergency nature, nor are they afflicted with infectious-contagious diseases.",
+        "price": 1200,
+        "capacity": 1
+    },
+    {
+        "id": 2,
+        "name": "Individual Ambulance",
+        "img": "https://i.ibb.co/3ChpVr0/2.jpg",
+        "description": "In this role, the Individual Ambulance is normally crewed by people who have been trained in advanced first aid rather than at paramedic level, but this can vary from location to location. The Individual Ambulance is normally used to transport the patient to a location where a more advanced ambulance can collect the patient and take over their care and transport them to a medical facility.",
+        "price": 1000,
+        "capacity": 2
+    },
+    {
+        "id": 3,
+        "name": "Mobile ICU Ambulance",
+        "img": "https://i.ibb.co/LCxB3Nh/3.jpg",
+        "description": "Another type of ambulances are the individual ambulances that fit within the group of ambulances that are not assistance or also known as conventional ambulances. They are vehicles for the transport of patients on a stretcher and are equipped for the transfer of patients who are not of an emergency nature, nor are they afflicted with infectious-contagious diseases.",
+        "price": 2000,
+        "capacity": 1
+    },
+    {
+        "id": 4,
+        "name": "Basic Life Support Ambulance",
+        "img": "https://i.ibb.co/n1YVj4D/4.jpg",
+        "description": "Ambulances Basic Life Support (S.V.B.) are the fourth type of ambulance that exist. They are ambulances that are prepared for the care of the sick. Ambulances Basic Life Support (S.V.B.) are framed within the assistance ambulances. This class of ambulances are those that are prepared for the care of the sick / as en route.",
+        "price": 3200,
+        "capacity": 1
+    },
+    {
+        "id": 5,
+        "name": "Medical and Nursing Care Vehicle",
+        "img": "https://i.ibb.co/pLQ7hn5/5.jpg",
+        "description": "Medical care and nursing vehicles are vehicles designed to provide urgent health care. Unlike ambulances, it is an intervention resource without the ability to transport injured people.",
+        "price": 800,
+        "capacity": 2
+    },
+    {
+        "id": 6,
+        "name": "Hospital Tent",
+        "img": "https://i.ibb.co/vZGhjBL/6.jpg",
+        "description": "A field hospital is a large mobile medical unit that allows the injured to be treated provisionally in the same place before they can be transferred safely to a fixed hospital. Its use is reserved for those accidents with numerous patients and that should be attended to immediately. The field hospitals are designed for any type of catastrophe, event or for any emergency action. However, its use in mass preventive events such as sports, cultural events, etc. is frequent.",
+        "price": 9000,
+        "capacity": 1
+    },
+    {
+        "id": 7,
+        "name": "MVA Logistics Unit",
+        "img": "https://i.ibb.co/dg1B0Ck/7.jpg",
+        "description": "A logistics unit of AMV (Multiple Victim Assistance) is a fully configurable health, medical or advanced care position. Its use is intended for large crowd events, sporting events or non-routine incidents in urban areas.",
+        "price": 1000,
+        "capacity": 1
+    },
+    {
+        "id": 8,
+        "name": "Isolation Ambulance",
+        "img": "https://i.ibb.co/z8jgnnX/8.png",
+        "description": "In our modern technological age, people are working in laboratories, chemical plants, nuclear power plants, and industrial plants where they can be exposed to any number of toxic and potentially hazardous substances. Transporting people that have been exposed to these substances and also people who are suffering from an outbreak of a highly infectious disease require a very special ambulance for their transportation and care.",
+        "price": 1800,
+        "capacity": 1
+    },
+    {
+        "id": 9,
+        "name": "First Responder Ambulance",
+        "img": "https://i.ibb.co/cNTWSpz/9.jpg",
+        "description": "Many ambulances are large vehicles because of the extensive amount of medical equipment and crew and patients that they need to convey. Because of their size, they are also relatively slow vehicles, and it may take time for them to get to a disaster or accident scene where urgent medical care is required. A first responder ambulance is a smaller vehicle that is fast and can negotiate smaller spaces and high- density traffic with greater ease than a large ambulance.The crew of the first responder ambulance will have limited and more compact gear, but they would get on scene faster and begin treatment of patients sooner.",
+        "price": 2000,
+        "capacity": 1
+    },
+    {
+        "id": 10,
+        "name": "Advanced Life Support Ambulance",
+        "img": "https://i.ibb.co/0B04yNJ/10.png",
+        "description": "An advanced life support ambulance is the type of ambulance that will be dispatched to care for critically ill or injured patients. Patients that have life-threatening conditions will require specialized care during their transportation to an appropriate medical facility. An advanced life support ambulance is sometimes called a mobile ICU because it has very advanced medical equipment on board to treat a wide range of life-threatening conditions and critically ill patients.",
+        "price": 2400,
+        "capacity": 2
+    },
+    {
+        "id": 11,
+        "name": "Basic Life Support Ambulance",
+        "img": "https://i.ibb.co/1dFDMkq/11.jpg",
+        "description": "If the medical emergency that requires an ambulance to treat and transport a patient is a non-life-threatening emergency, then a basic life support ambulance is the most likely type of ambulance that will be sent to the scene to assess and treat the patient and transport them to a medical facility. A basic life support ambulance will have the equipment onboard the vehicle to treat patients with limited medical conditions.These can be minor traumas such as cuts, bruising, broken bones, and non- life - threatening conditions such as basic respiratory distress, dehydration, post - operative patients, low degree burns, and sickness that requires transport to a medical facility.",
+        "price": 3000,
+        "capacity": 2
+    },
+    {
+        "id": 12,
+        "name": "MVA Ambulance – Multiple Victim Assistance",
+        "img": "https://i.ibb.co/9HzwNtC/1.jpg",
+        "description": "An MVA or multiple victim assistance ambulance is the typical ambulance that you will see in attendance at public events. Public venues such as music concerts, festivals, conferences, and sporting events. An MVA ambulance will have limited medical equipment on board the vehicle, but it will be well- stocked to provide medical assistance for cuts, bruises, sporting injuries, bee stings and other insect bites, treatment of broken bones, and assessment of patient injuries.They will be well - stocked with bandages and gauze and similar types of first aid equipment to treat a large number of people at an event",
+        "price": 900,
+        "capacity": 1
+    },
+    {
+        "id": 13,
+        "name": "Patient Transport Ambulance",
+        "img": "https://i.ibb.co/hyzrLgS/13.png",
+        "description": "Sometimes an ambulance is needed to transport a patient that is recovering from surgery or who is very weak, or who cannot be transported in a normal car because of their injury or medical condition. These patients do not need any major medical care during their transportation but rather a comfortable means to get to and from a medical facility.",
+        "price": 4000,
+        "capacity": 1
+    },
+    {
+        "id": 14,
+        "name": "Neonatal Ambulance",
+        "img": "https://i.ibb.co/161fHYT/14.jpg",
+        "description": "Pregnant mothers are sometimes caught by surprise with the delivery of their baby. Sometimes the baby will decide to come when the mother is out at the mall, at the cinema, or driving on the road to the hospital. Births do not always go as planned, and sometimes the baby may be premature, and the birth process has started too soon.",
+        "price": 7000,
+        "capacity": 1
+    },
+    {
+        "id": 15,
+        "name": "Ambulance Bus",
+        "img": "https://i.ibb.co/gMRvC7C/15.jpg",
+        "description": "Bus ambulances are often used at these types of scenes, where earthquakes, storms, building collapses, or similar events have occurred and injured many people. Bus ambulances can take sitting wounded or ill patients, and some also have locations to take patients in the prone position on gurneys in designated locations on the bus.",
+        "price": 2300,
+        "capacity": 1
+    },
+    {
+        "id": 16,
+        "name": "Bariatric Ambulance",
+        "img": "https://i.ibb.co/NW1LCWK/16.jpg",
+        "description": "Our modern society and lifestyle have resulted in a large portion of the population being very large, even severely obese. Transporting large people with medical issues has proven to be a challenge for traditional ambulances. They do not have the internal capacity or the right gurneys to be able to transport these people safely.",
+        "price": 2500,
+        "capacity": 1
+    },
+    {
+        "id": 17,
+        "name": "Rapid Organ Recovery Ambulance",
+        "img": "https://i.ibb.co/tHS91jm/17.jpg",
+        "description": "People who are registered organ donors or the family members of deceased individuals may give permission for organs to be harvested from their loved ones who have died in an accident or from a heart attack, brain embolism, or some other major medical event that could leave other organs intact.",
+        "price": 700,
+        "capacity": 1
+    },
+    {
+        "id": 18,
+        "name": "Fixed-Wing Air Ambulance",
+        "img": "https://i.ibb.co/d5pppbq/18.jpg",
+        "description": "Patients requiring medical care in remote locations or who are in places or countries that do not have the correct medical facilities to deal with their condition or treat them sufficiently may require long-distance transportation. This can be to a different country or to a different city that has the necessary facilities for their treatment.",
+        "price": 1700,
+        "capacity": 1
+    },
+    {
+        "id": 19,
+        "name": "Helicopter Ambulance",
+        "img": "https://i.ibb.co/Q6M1Kwy/19.jpg",
+        "description": "A helicopter ambulance is another version of a flying ambulance. They are used for the transportation of critically ill patients from accident scenes or for specialized treatment to a different hospital. They are also used to transport patients from rural or hard t reach locations that other vehicles or aircraft are not able to access.",
+        "price": 9000,
+        "capacity": 4
+    },
+    {
+        "id": 20,
+        "name": "Military Ambulance",
+        "img": "https://i.ibb.co/MN5LPWH/20.jpg",
+        "description": "The military has a variety of ambulance types to evacuate and treat their ill and wounded personnel. A military ambulance can be a truck that is equipped with medical gear and able to traverse rough terrain, or it can be a helicopter or fixed-wing aircraft. Boats are also used as ambulances in branches of the military, such as the Navy, that operate in aquatic environments.",
+        "price": 7500,
+        "capacity": 3
+    },
+    {
+        "id": 21,
+        "name": "Van Ambulance",
+        "img": "https://i.ibb.co/mNRXL5k/Van-ambulance-box-type-A.jpg",
+        "description": "The inside of the van ambulance is also spacious enough to fit advanced medical equipment, the patient, and the attending crew who will be providing the medical care to the patient at the scene and en-route to the medical facility. Van ambulances are often used for basic life support ambulances, MVA ambulances, patient transport ambulances, and in some cases for neonatal ambulances or rapid organ recovery ambulances.Because the width of these types of ambulances is fixed, they are not often used as advanced life support ambulances or as bariatric ambulances.",
+        "price": 700,
+        "capacity": 2
+    },
+    {
+        "id": 22,
+        "name": "Pickup Truck Ambulance",
+        "img": "https://i.ibb.co/y5p1CKV/CHIANG-MAI-THAILAND-NOVEMBER-30-2017-Ambulance-Pickup-truck-of-Sangaban-Subdistrict-Administrative-O.jpg",
+        "description": "A pickup truck ambulance is based on the construction of a pickup truck, but the back end is converted according to the type of ambulance required. The starting point is a chassis pickup, which consists of a pickup truck with a cab only, and a bare chassis at the back, ready to receive various configurations of ambulance on the back.",
+        "price": 1200,
+        "capacity": 1
+    },
+    {
+        "id": 23,
+        "name": "All-Terrain Vehicle Ambulance",
+        "img": "https://i.ibb.co/pwQF1jz/23.jpg",
+        "description": "ATV ambulances can carry heavy loads over rough terrain, which makes them ideal vehicles as ambulances in rural areas or regions where roads are limited or not in good repair. An ATV would be used mostly to get a medical professional to the patient to treat them on-site in preparation for a different ambulance to evacuate them.",
+        "price": 1800,
+        "capacity": 1
+    },
+    {
+        "id": 24,
+        "name": "Motorcycle Ambulance",
+        "img": "https://i.ibb.co/5sMnGbK/24.jpg",
+        "description": "A motorcycle is a nimble vehicle that can navigate traffic jams and narrow streets or rough terrain much easier and quicker than larger four-wheeled vehicles. Motorcycle ambulances are often used in the role of getting a paramedic or EMT to a patient that is in a hard- to - reach location.The motorcycle will have limited equipment on board, but it could be enough to save lives and treat bleeding or stabilize a patient until a more appropriate ambulance can reach the patient for transportation.",
+        "price": 1300,
+        "capacity": 1
+    },
+    {
+        "id": 25,
+        "name": "Bicycle Ambulance",
+        "img": "https://i.ibb.co/XXd0htQ/25.jpg",
+        "description": "A bicycle ambulance offers the same benefits to emergency medical treatment that a motorcycle ambulance does, but it is just a little slower. A bicycle ambulance is useful in city centers where other emergency services may not be able to gain access due to high traffic density or blocked roads.",
+        "price": 1000,
+        "capacity": 1
+    },
+    {
+        "id": 26,
+        "name": "Boat Ambulance",
+        "img": "https://i.ibb.co/wMKCqks/26.jpg",
+        "description": "Boat ambulances are common in cities that have major waterways that pass through them, which is less likely to suffer from traffic congestion. Boat ambulances are also used to transport patients from other boats, oil rigs, and nearby islands for medical treatment on the mainland",
+        "price": 1000,
+        "capacity": 1
+    }
+]

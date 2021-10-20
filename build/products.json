@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Cardinal Health™ Anesthesia Supplies",
+        "img": "https://i.ibb.co/2NRSGnC/1.jpg",
+        "description": "Quality, reliability, dependability, consistency — these aren’t just things you want, these are things you need.",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "name": "Compression Devices and Solutions",
+        "img": "https://i.ibb.co/Czmw0dR/2.jpg",
+        "description": "Smart Compression™ is the next evolution of IPC. It’s designed to move more blood1* to help prevent stasis,1 track compliance2 and educate patients and clinicians about the risk of VTE. All while thinking about the impact on the environment.",
+        "price": 100
+    },
+    {
+        "id": 3,
+        "name": "Durable Medical Equipment (DME)",
+        "img": "https://i.ibb.co/q56LhGr/3.jpg",
+        "description": "Cardinal Health™ Bathroom Safety, Mobility, and Exam Room Equipment products are designed with both the patient and caregiver in mind.",
+        "price": 250
+    },
+    {
+        "id": 4,
+        "name": "Enteral Feeding",
+        "img": "https://i.ibb.co/QHFbYwC/4.jpg",
+        "description": "The Cardinal Health Kangaroo™ nutritional delivery portfolio offers a safe, innovative and complete solution of products that support pediatric and adult enteral feeding needs from the hospital to the home.",
+        "price": 120
+    },
+    {
+        "id": 5,
+        "name": "Cardinal Health™ Medical Gloves",
+        "img": "https://i.ibb.co/s1XBWwp/5.jpg",
+        "description": "Our gloves meet industry quality and performance standards because wearer and patient safety are our top priorities. In addition, all of our glove offerings are produced with the same standards of quality and service that customers have come to rely on from Cardinal Health.",
+        "price": 40
+    },
+    {
+        "id": 6,
+        "name": "Infection Control",
+        "img": "https://i.ibb.co/3hP9nVw/6.jpg",
+        "description": "Every day, you’re tasked to do more with less. To improve productivity with less time, budget and staff. And do it all while you strive to keep your patients safe and improve the quality of care.",
+        "price": 340
+    },
+    {
+        "id": 7,
+        "name": "Laboratory Products and Service",
+        "img": "https://i.ibb.co/kSS0Xyc/7.jpg",
+        "description": "We provide hospital labs, independent labs, and physician office labs access to thousands of products from hundreds of manufacturers including thousands of Cardinal Health brand products that provide our customers the savings they need. ",
+        "price": 140
+    },
+    {
+        "id": 8,
+        "name": "OEM Medical Specialty Products",
+        "img": "https://i.ibb.co/hHyMd6b/8.jpg",
+        "description": "OEM Patient Care offers our customers and partners a single source for an extensive range of products and customization capabilities. Our team is committed to designing, developing, and delivering high-quality medical components and devices to meet each specification, budget, and schedule.",
+        "price": 54
+    },
+    {
+        "id": 9,
+        "name": "Patient Care",
+        "img": "https://i.ibb.co/QPNkGqD/9.jpg",
+        "description": "You want to provide quality products to care for your patients. Cardinal Health provides just that. Patient care products from slippers to thermal care, grooming to surgical bras and vests – Cardinal Health is Essential to care ™.   ",
+        "price": 260
+    },
+    {
+        "id": 10,
+        "name": "Cardinal Health™ Patient Monitorin",
+        "img": "https://i.ibb.co/gDBh6kn/10.jpg",
+        "description": "We offer a robust line of patient monitoring products that includes electrodes, monitoring accessories, pressure and temperature monitoring products and stethoscopes.",
+        "price": 46
+    },
+    {
+        "id": 11,
+        "name": "Presource® Procedural Packing Product Solutions",
+        "img": "https://i.ibb.co/7Gmpd6v/11.jpg",
+        "description": "From the heart of your hospital to every procedural department, Cardinal Health’s Presource® Procedural Pack Products enable you to deliver clinical and operational efficiencies in patient care.",
+        "price": 155
+    },
+    {
+        "id": 12,
+        "name": "Cardinal Health™ Skin and Wound Management",
+        "img": "https://i.ibb.co/YRMYZ40/12.jpg",
+        "description": "By providing products to assist with minor wounds to incontinence, clinical skin care and advanced wound care, our portfolio spans across the continuum of care. From the hospital to the home, we provide you and your patients with the essentials you need along the way. ",
+        "price": 275
+    },
+    {
+        "id": 14,
+        "name": "Cardinal Health™ Woman and Baby",
+        "img": "https://i.ibb.co/9GgD2JN/14.jpg",
+        "description": "We provide quality products to help care for women and help keep them comfortable – when they need it the most. Additionally, we offer infant care products for those precious newborn essentials you’ll want to keep close.",
+        "price": 326
+    }
+]
